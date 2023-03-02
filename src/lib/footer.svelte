@@ -3,6 +3,5 @@
 </script>
 
 <footer>
-    More stuff here 
-    <Navigation />
+    More stuff here     
 </footer>
