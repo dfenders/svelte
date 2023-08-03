@@ -1,7 +1,6 @@
-<script>
-    import Header from '$lib/Header.svelte';
-</script>
+<h1>Cats</h1>
 
-<Header />
-
-<h1>Hello</h1>
+<img src="cat.jpg" />
+<p>
+    Lorem ipsum about cats...
+</p>
